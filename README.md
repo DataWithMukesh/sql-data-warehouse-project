@@ -110,7 +110,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi, I’m Mu, a passionate Data Analyst skilled in Excel, SQL, and Power BI. I enjoy turning raw data into meaningful insights and building dashboards that support data-driven decisions.
+Hi, I’m Mukesh Patel, a passionate Data Analyst skilled in Excel, SQL, and Power BI. I enjoy turning raw data into meaningful insights and building dashboards that support data-driven decisions.
 I’m constantly learning new tools and improving my analytical skills while working on real-world projects.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
